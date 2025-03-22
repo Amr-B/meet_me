@@ -1,0 +1,39 @@
+name: online_meeting
+description: "A new Flutter project."
+
+# This line prevents the package from being accidentally published to pub.dev
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+ # ------- Packages ------- #
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  firebase_core: ^3.10.1
+  cloud_firestore: ^5.6.2
+  google_sign_in: ^6.2.2
+  firebase_auth: ^5.4.0
+  flutter_facebook_auth: ^7.1.1
+  jitsi_meet_flutter_sdk: ^10.3.0
+
+ # -------------------------------- #
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+
+  #----------- local assets and images ---------#
+  assets:
+    # --- presentation --- #
+    - assets/images/onboarding/
+    - assets/logos/

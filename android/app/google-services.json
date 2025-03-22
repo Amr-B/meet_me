@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789150808317",
+    "project_id": "meet-me-bced1",
+    "storage_bucket": "meet-me-bced1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789150808317:android:386f5d3cbc302eeeaee694",
+        "android_client_info": {
+          "package_name": "com.example.meet_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789150808317-t44bf849b3s8agk5m1p4v72bsqn60ta4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4TJz4ISihIansJblSDa-XRVcSJDGbOyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789150808317-t44bf849b3s8agk5m1p4v72bsqn60ta4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
